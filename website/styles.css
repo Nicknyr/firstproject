@@ -1,0 +1,197 @@
+p{
+  font-size: 16px;
+}
+
+.navbar.navbar{
+  margin: 0;
+}
+
+.highlight {
+  color: purple;
+}
+
+#mainNavBar {
+  float: right;
+}
+
+.navbar {
+  margin: 0;
+}
+
+.navbar-header {
+  height: 75px;
+}
+
+a{
+  font-size: 20px;
+  color: orange;
+}
+
+.jumbotron .container .main-h1 {
+  font-size: 100px;
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  font-family: 'Marcellus SC', serif;
+  color: purple;
+}
+
+
+
+.main-h2 {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-family: 'Marcellus SC', serif;
+  color: purple;
+}
+
+.jumbotron {
+  height: 500px;
+  background-image: url();
+  background-size: cover;
+  opacity: .8;
+}
+
+.introduction{
+  margin-top: ;
+  text-align: center;
+  font-size: 24px;
+  
+  
+}
+
+.introduction hr{
+  margin-top: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.introparagraph{
+     margin-left: 300px;
+     margin-right: 300px;
+ 
+}
+
+.quoteModal{
+  text-align: center;
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+
+.quote-one {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: 900;
+  color: purple;
+  
+}
+
+.quote-one blockquote{
+  border: 0;
+}
+
+.rightside{
+  margin-right: 60px;
+}
+
+.leftside{
+  margin-left: 60px;
+}
+
+.rightside hr{
+  margin-right: 
+}
+
+
+
+.double-4 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 200px;
+  
+ 
+}
+
+
+
+/* Footer  */
+
+.social{
+  margin-right: 20px;
+  margin-top: 60px;
+}
+
+  
+
+
+.footerlist{
+  list-style-type: none;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  margin-top: 20px;
+  
+ 
+}
+
+.footerlist li{
+   text-align: center;
+   display: inline;
+   margin-right: 30px;
+   color: white;
+  
+   
+}
+
+.footerlist li a{
+  color: white;
+ 
+ 
+  
+}
+
+.copyright{
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 20px;
+ 
+}
+
+
+
+ * {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+    background-color: white;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -250px; /* the bottom margin is the negative value of the footer's height */
+   background-color: black;
+}
+.footer, .push {
+  height: 250px; /* '.push' must be the same height as 'footer' */
+}
+.footer {
+    text-align: center;
+   
+}
+
+.footerhr{
+  margin-left: 100px;
+  margin-right: 100px;
+ 
+}
+
+
+/*
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+*/
