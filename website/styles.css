@@ -24,8 +24,11 @@ p{
 
 a{
   font-size: 20px;
-  color: purple;
+  color: white;
 }
+
+
+
 
 .jumbotron .container .main-h1 {
   font-size: 100px;
@@ -91,15 +94,7 @@ a.ghostbutton1:hover{
               border-color 0.3s ease-in;
 }
 
-/* 
-a.ghostbutton1:hover{
-      background-color: black;
-      color: white;
-      border-style: solid;
-      border-width: 1px;
-      border-color: black;
-      
-}*/
+
 
 a.ghostbutton2{
       text-align: center;
@@ -167,22 +162,30 @@ a.ghostbutton2:hover{
 
 .rightside{
   margin-right: 60px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .leftside{
   margin-left: 60px;
+   padding-top: 25px;
+   padding-bottom: 25px;
 }
 
 .rightside hr{
-  margin-right: 
+  margin-right: 60px;
+  
 }
 
 
 
-.double-4 {
+.row .double-4 {
   margin-top: 100px;
   margin-bottom: 100px;
   height: 200px;
+
+  
+
   
  
 }
@@ -240,7 +243,7 @@ a.ghostbutton2:hover{
 }
 html, body {
   height: 100%;
-    background-color: white;
+    
 }
 .wrapper {
   min-height: 100%;
