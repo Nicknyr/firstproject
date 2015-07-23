@@ -190,6 +190,26 @@ a.ghostbutton2:hover{
  
 }
 
+.portfolio-images{
+  text-align: center;
+  margin-top: 50px;
+  width: 1200px;
+}
+
+.portfolio-images img{
+  margin: 10px;
+}
+
+.portfolio-images hr{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.about{
+  background-color: black;
+  text-align: center;
+}
 
 
 /* Footer  */
